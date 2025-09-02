@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cosmicdepot.shop/sitemap.xml
